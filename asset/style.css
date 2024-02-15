@@ -1,0 +1,148 @@
+/* color variable */
+
+:root {
+    --red: #f42625;
+    --white: #ffffff;
+    --black: #000000;
+}
+
+/* navbar styling */
+#navbar-items {
+    gap: 30px;
+}
+#but{
+    color: #ff0000;
+}
+.gap10{
+    gap: 5px;
+}
+.margin-auto{
+    margin: 0px auto;
+    width: 96%;
+}
+#navbar {
+    padding: 0px 10px;
+}
+.w1{
+    width: 100%;
+}
+.w3{
+    width: 50%;
+}
+.w2{
+    width: 32%;
+}
+
+#main-logo {
+    width: 55%;
+}
+
+#franchise {
+    background-color: transparent;
+    border: 1px solid white;
+    padding: 15px 20px;
+    cursor: pointer;
+}
+
+#order-online {
+    background-color: var(--red);
+    border: 0px;
+    padding: 15px 20px;
+    cursor: pointer;
+}
+
+.order-online {
+    background-color: var(--red);
+    border: 0px;
+    padding: 15px 20px;
+    cursor: pointer;
+}
+
+#red {
+    color: var(--red);
+}
+
+.red {
+    color: var(--red);
+}
+
+#btn-icon {
+    padding: 5px 7px;
+}
+
+/* #children-images{
+    gap: 30px;
+} */
+.bg-white {
+    background-color: var(--white);
+}
+
+#aboutbox {
+    width: 350px;
+    height: 440px;
+    background-color: #0f0f0f;
+}
+
+.inline {
+    display: inline-block
+}
+
+div li {
+    list-style: none;
+}
+
+
+.size-3 {
+    width: 500px;
+    height: 115px;
+    margin: 0 auto;
+
+}
+
+.input {
+    width: 600px;
+    height: 50px;
+}
+
+.size-1 {
+    font-size: 1.11rem;
+    font-weight: 300px;
+}
+.b-b{
+    border-bottom: 1px solid grey;
+    padding-bottom: 40px;
+    width: 1200px;
+    margin: 0 auto;
+    background-image:url(../pics/back\ ground\ logo.webp) ;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 30%;
+    
+}
+.margin-left2{
+    margin-left: 70px;
+}
+.margin-right2{
+    margin-right: 70px;
+}
+.mt-8{
+    margin-top: 43%;
+}
+.border2{
+    border: 1px solid rgb(92, 85, 85);
+    width: 600px;
+    height: 500px;
+
+}
+.gap{
+    gap: 20px;
+}
+.gap2{
+    gap: 40px;
+}
+.bg-img{
+    background-image:url(../pics/back\ ground\ logo.webp) ;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 30%;
+}
